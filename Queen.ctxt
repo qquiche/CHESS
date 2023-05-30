@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Queen
+comment1.params=a
+comment1.target=void\ moveUp(int)
+comment10.params=
+comment10.target=int\ getAvenue()
+comment11.params=
+comment11.target=int\ getStreet()
+comment12.params=
+comment12.target=java.lang.String\ getCoordinate()
+comment2.params=a
+comment2.target=void\ moveRight(int)
+comment3.params=a
+comment3.target=void\ moveLeft(int)
+comment4.params=a
+comment4.target=void\ moveDown(int)
+comment5.params=a
+comment5.target=void\ upLeft(int)
+comment6.params=
+comment6.target=int\ getPiece()
+comment7.params=a
+comment7.target=void\ upRight(int)
+comment8.params=a
+comment8.target=void\ downLeft(int)
+comment9.params=a
+comment9.target=void\ downRight(int)
+numComments=13
